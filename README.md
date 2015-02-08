@@ -13,14 +13,14 @@ Requirements:
 
 Generation (training) of database:
 
-  ./hat.pl -b hat.db il2 < train.txt
+  `./hat.pl -b hat.db il2 < train.txt`
 
   - creates database hat.db from training data train.txt, which are in
     encoding iso-8859-2 (encoding names are according to Cz::Cstocs)
 
 Adding diacritic marks:
 
-  ./hat.pl -h hat.db il2 < ascii.txt > czech.txt
+  `./hat.pl -h hat.db il2 < ascii.txt > czech.txt`
 
   - using database hat.db adds diacritic marks to ascii.txt and saves it as
     czech.txt in encoding iso-8859-2
