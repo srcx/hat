@@ -1,8 +1,8 @@
 # HaT
 
-**HaT** is a script intended for adding diacritic marks to (Czech) text. It is based on statistical methods. Statistics are gathered from training data, stored in a database, and then used. The error rate if test database is used is around 5%.
+**Warning: unmaintained since 2005!**
 
-**It was usable (and used) 10 years ago. Whether or not it still works is a question.**
+**HaT** is a script intended for adding diacritic marks to (Czech) text. It is based on statistical methods. Statistics are gathered from training data, stored in a database, and then used. The error rate if test database is used is around 5%.
 
 ## Running
 
